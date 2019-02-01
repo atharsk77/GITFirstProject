@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "GITFirstProject"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-GITFirstProject-164ca0c9-df5a-4079-9d51-df12bd97904d;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
